@@ -1,0 +1,7 @@
+build with the makefile
+
+run the sequential version with ./138-seq
+
+run the parallel processing version with mpiecec -n [cores] ./138
+
+it doesn't give the right answer but this is the closest ive gotten so far.

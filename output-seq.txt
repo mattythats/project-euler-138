@@ -1,0 +1,13 @@
+Triangle 1 found!	B: 16	L: 17	H: 15
+Triangle 2 found!	B: 272	L: 305	H: 273
+Triangle 3 found!	B: 4896	L: 5473	H: 4895
+Triangle 4 found!	B: 87840	L: 98209	H: 87841
+Triangle 5 found!	B: 1576240	L: 1762289	H: 1576239
+Triangle 6 found!	B: 28284464	L: 31622993	H: 28284465
+Triangle 7 found!	B: 176383846	L: 197203134	H: 176383845
+Triangle 8 found!	B: 239629832	L: 267914296	H: 239629831
+Triangle 9 found!	B: 287945466	L: 321932817	H: 287945465
+Triangle 10 found!	B: 296198760	L: 331160282	H: 296198761
+Triangle 11 found!	B: 302875818	L: 338625458	H: 302875817
+Triangle 12 found!	B: 317806170	L: 355318099	H: 317806169
+Total Leg Len: 1845643372

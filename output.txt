@@ -1,0 +1,13 @@
+Proc 0 has found a triangle! Base: 16	Height: 15	Leg: 17
+Proc 2 has found a triangle! Base: 272	Height: 273	Leg: 305
+Proc 4 has found a triangle! Base: 4896	Height: 4895	Leg: 5473
+Proc 4 has found a triangle! Base: 87840	Height: 87841	Leg: 98209
+Proc 0 has found a triangle! Base: 1576240	Height: 1576239	Leg: 1762289
+Proc 2 has found a triangle! Base: 28284464	Height: 28284465	Leg: 31622993
+Proc 3 has found a triangle! Base: 176383846	Height: 176383845	Leg: 197203134
+Proc 2 has found a triangle! Base: 239629832	Height: 239629831	Leg: 267914296
+Proc 1 has found a triangle! Base: 287945466	Height: 287945465	Leg: 321932817
+Proc 4 has found a triangle! Base: 296198760	Height: 296198761	Leg: 331160282
+Proc 1 has found a triangle! Base: 302875818	Height: 302875817	Leg: 338625458
+Total leg length is 1845643372
+Proc 1 has found a triangle! Base: 317806170	Height: 317806169	Leg: 355318099
